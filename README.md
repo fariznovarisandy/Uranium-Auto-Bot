@@ -101,7 +101,11 @@ This tool is for educational purposes only. Use at your own risk. The developers
 
 ## Join Our Community
 
-Join us on Telegram: [AirdropInsiderID](https://t.me/AirdropInsiderID)
+Join us on Telegram:
+
+
+[CriptoKids](https://t.me/Crypto_KidsWeb3)
+ [AirdropInsiderID](https://t.me/AirdropInsiderID)
 
 ## License
 
