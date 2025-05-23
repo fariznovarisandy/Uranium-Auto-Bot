@@ -104,7 +104,7 @@ This tool is for educational purposes only. Use at your own risk. The developers
 Join us on Telegram:
 
 
-[CriptoKids](https://t.me/Crypto_KidsWeb3)
+[CriptoKids](https://t.me/Crypto_KidsWeb3) And
  [AirdropInsiderID](https://t.me/AirdropInsiderID)
 
 ## License
